@@ -1,2 +1,2 @@
-# puzzlepad
-Making a new concept dance game pad, puzzle pad
+# The Puzzle Pad
+Making a new concept dance game pad, the Puzzle Pad
